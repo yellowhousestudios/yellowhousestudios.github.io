@@ -18,7 +18,7 @@ Dopo anni di esperimenti, idee ed esperienze nel settore, Yellow House Studios h
 ## Entra nella community
 Collegati alla nostra community [Discord](https://discord.gg/9M7EB4RNdE) per restare sempre aggiornato e in contatto diretto con i membri del team!
 
-Supportaci su [Ko-fi](https://ko-fi.com/yellowhousestudios) e non dimenticare di visitare la nostra pagina ufficiale su [itch.io]()!
+Supportaci su [Ko-fi](https://ko-fi.com/yellowhousestudios) e non dimenticare di visitare la nostra pagina ufficiale su [itch.io](https://yellow-house-studios.itch.io/)!
 
 ## Dove trovarci
 Inviaci una mail all'indirizzo [casagiallastudios@gmail.com](mailto:casagiallastudios@gmail.com) se hai bisogno d'aiuto o desideri maggiori informazioni.
