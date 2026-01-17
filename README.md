@@ -11,8 +11,6 @@ In compagnia di un loro amico dungeon master, hanno fondato **Yellow House Studi
 Dopo anni di esperimenti, idee ed esperienze nel settore, Yellow House Studios ha iniziato lo sviluppo dei propri progetti, mettendo anche a disposizione le proprie abilità per aiutare le persone e le piccole imprese, verso un avanzamento tecnologico coscienzioso, soprattutto nei settori tecnologico, informatico e in quello dell'intrattenimento videoludico.
 
 ## Il team
-> [!WARNING]
-> Sito web in construzione.
 ### Tullio Crotti
 
 ### Ivan Caliendo
@@ -29,6 +27,5 @@ Inviaci una mail all'indirizzo [casagiallastudios@gmail.com](mailto:casagiallast
 - [Instagram](https://www.instagram.com/yellowhouse_studios)
 - [YouTube](https://www.youtube.com/@yellowhousestudios)
 - [TikTok](https://www.tiktok.com/@yellowhousestudios)
-
 - [LinkedIn](https://www.linkedin.com/company/yellowhousestudios)
 - [Twitter](https://x.com/YellowHous33137)
