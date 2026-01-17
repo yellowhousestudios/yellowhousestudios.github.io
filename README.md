@@ -7,23 +7,31 @@ Tullio e Ivan, due amici appassionati di tecnologie e videogiochi, hanno deciso 
 
 In compagnia di un loro amico dungeon master, insieme hanno fondato **Yellow House Studios**, il luogo in cui le loro creazioni prendono vita.
 
-## Lo stato attuale
+## La nostra vision
+Lavoriamo per un futuro in cui i videogiochi rappresentano non solo una forma d'arte, ma anche un modo per esprimere le proprie idee, la propria creatività e allo stesso tempo uno spazio sano in cui divertirsi con le altre persone, magari imparando anche qualcosa di nuovo.
+
+## Cosa facciamo
 Dopo anni di esperimenti, idee ed esperienze nel settore, Yellow House Studios ha iniziato nel gennaio del 2025 lo sviluppo dei propri progetti, mettendo anche a disposizione le proprie abilità per aiutare le persone e le piccole imprese, verso un avanzamento tecnologico coscienzioso, soprattutto nei settori tecnologico, informatico e in quello dell'intrattenimento videoludico.
 
-## Il Team
-### Tullio Crotti
+## Il team
+### Tullio Crotti, _Technical Director_
+- [LinkedIn](https://www.linkedin.com/in/tullio-crotti/)
+- [Instagram](https://www.instagram.com/2lioos/)
 
-### Ivan Caliendo
+### Ivan Caliendo, _Art Director_
+- [TikTok](https://www.tiktok.com/@roorshark)
+- [Instagram](https://www.instagram.com/RoorShark/)
 
 ## Entra nella Casa Gialla
-Unisciti anche tu alla nostra community [Discord](https://discord.gg/9M7EB4RNdE) per restare in contatto diretto con i membri del team e seguire tutti gli sviluppi.
-
-Non dimenticare di visitare la nostra pagina sul sito [itch.io](https://yellow-house-studios.itch.io/)
+Unisciti anche tu alla nostra community [Discord](https://discord.gg/9M7EB4RNdE) per restare in contatto diretto con i membri del team e seguire tutti gli sviluppi interni.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O71MIMXT)
 
-## Dove trovarci
-Inviaci una mail all'indirizzo [casagiallastudios@gmail.com](mailto:casagiallastudios@gmail.com) se hai bisogno d'aiuto o desideri maggiori informazioni.
+### Stores
+- [itch.io](https://yellow-house-studios.itch.io/)
+
+## Contatti
+Inviaci una mail all'indirizzo [casagiallastudios@gmail.com](mailto:casagiallastudios@gmail.com) se hai bisogno d'aiuto o vuoi chiedere maggiori informazioni.
 
 ### Social
 Segui le nostre pagine social per restare sempre aggiornato sui progressi dei nostri progetti.
