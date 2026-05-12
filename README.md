@@ -1,11 +1,11 @@
 # Benvenuti nella Casa Gialla
-> Creiamo sistemi che trasmettono emozioni, non semplici informazioni. 
+> Creiamo sistemi che trasmettono emozioni, non semplici informazioni.
 
 ![Il nostro logo](logo_giallo_bordo_nero.png)
 
 Tullio e Cali, due amici appassionati di tecnologie e videogiochi, hanno deciso di unire le loro abilità artistiche e tecniche per concretizzare il loro sogno, _sviluppare videogiochi_.
 
-In compagnia di un loro amico dungeon master, insieme hanno fondato **Yellow House Studios**, il luogo in cui le loro creazioni prendono vita.
+In compagnia di un loro amico _dungeon master_, insieme hanno fondato **Yellow House Studios**, il luogo in cui le loro creazioni prendono vita.
 
 ## La nostra vision
 Lavoriamo per un futuro in cui i videogiochi rappresentano non solo una forma d'arte, ma anche un modo per esprimere le proprie idee e la propria creatività, rendendoli spazi sani il cui unico scopo è quello di divertire.
@@ -16,7 +16,6 @@ Dopo anni di esperimenti, idee ed esperienze nel settore, Yellow House Studios h
 ## Il team
 ### Tullio, _Technical Director_
 - [LinkedIn](https://www.linkedin.com/in/tullio-crotti/)
-- [Instagram](https://www.instagram.com/2lioos/)
 
 ### Cali, _Art Director_
 - [TikTok](https://www.tiktok.com/@roorshark)
@@ -34,7 +33,7 @@ Unisciti anche tu alla nostra community [Discord](https://discord.gg/9M7EB4RNdE)
 Inviaci una mail all'indirizzo [casagiallastudios@gmail.com](mailto:casagiallastudios@gmail.com) se hai bisogno d'aiuto o vuoi chiedere maggiori informazioni.
 
 ### Social
-Segui le nostre pagine social per restare sempre aggiornato sui progressi dei nostri progetti.
+Segui le pagine social per restare sempre aggiornato sui nostri progressi.
 - [Instagram](https://www.instagram.com/yellowhouse_studios)
 - [YouTube](https://www.youtube.com/@yellowhousestudios)
 - [TikTok](https://www.tiktok.com/@yellowhousestudios)
