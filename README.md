@@ -14,12 +14,8 @@ Lavoriamo per un futuro in cui i videogiochi rappresentano non solo una forma d'
 Dopo anni di esperimenti, idee ed esperienze nel settore, Yellow House Studios ha iniziato nel gennaio del 2025 lo sviluppo dei propri progetti, mettendo anche a disposizione le proprie abilità per aiutare le persone e le piccole imprese, verso un avanzamento tecnologico coscienzioso, soprattutto nei settori tecnologico, informatico e in quello dell'intrattenimento videoludico.
 
 ## Il team
-### Tullio, _Technical Director_
-- [LinkedIn](https://www.linkedin.com/in/tullio-crotti/)
-
-### Cali, _Art Director_
-- [TikTok](https://www.tiktok.com/@roorshark)
-- [Instagram](https://www.instagram.com/RoorShark/)
+- Tullio, _Technical Director_
+- Cali, _Art Director_
 
 ## Entra nella Casa Gialla
 Unisciti anche tu alla nostra community [Discord](https://discord.gg/9M7EB4RNdE) per restare in contatto diretto con i membri del team e seguire tutti gli sviluppi interni.
