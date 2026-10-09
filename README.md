@@ -1,4 +1,4 @@
-[Home] | [[Contatti](contact.md)]
+Home | Stores | [Contatti](contact.md)
 
 # Benvenuti nella Casa Gialla
 > Creiamo sistemi che trasmettono emozioni, non semplici informazioni.
