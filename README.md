@@ -1,3 +1,5 @@
+[Home] | [[Contatti](contact.md)]
+
 # Benvenuti nella Casa Gialla
 > Creiamo sistemi che trasmettono emozioni, non semplici informazioni.
 
@@ -22,5 +24,3 @@ Dopo anni di esperimenti, idee ed esperienze nel settore, Yellow House Studios h
 ### Stores
 - [itch.io](https://yellow-house-studios.itch.io/)
 - [Steam](https://store.steampowered.com/curator/46141357)
-
-[Contatti](contact.md)
