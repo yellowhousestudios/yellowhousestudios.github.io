@@ -1,4 +1,4 @@
-Home | Stores | [Contatti](contact.md)
+Home | [Stores](marketplace.md) | [Contatti](contact.md)
 
 # Benvenuti nella Casa Gialla
 > Creiamo sistemi che trasmettono emozioni, non semplici informazioni.
@@ -20,7 +20,3 @@ Dopo anni di esperimenti, idee ed esperienze nel settore, Yellow House Studios h
 - Cali, _Art Director_
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O71MIMXT)
-
-### Stores
-- [itch.io](https://yellow-house-studios.itch.io/)
-- [Steam](https://store.steampowered.com/curator/46141357)
